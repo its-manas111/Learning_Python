@@ -9,7 +9,7 @@
 
 # The input will be five lined, each line containing an integer. The i^{th}i 
 # th
-#   line will have the employee-id of EiEi. The output will be a single line containing one of these two strings: YES or NO.
+# line will have the employee-id of EiEi. The output will be a single line containing one of these two strings: YES or NO.
 
 E1 = int(input())
 E2 = int(input())
